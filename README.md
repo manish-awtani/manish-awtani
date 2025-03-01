@@ -63,10 +63,6 @@ me
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-awtani&" alt="manish-awtani" />
-</div>
-
 <table width="100%">
   <tr>
     <td width="50%">
