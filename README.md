@@ -54,16 +54,30 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/manishunleashed" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/manish-awtani/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-awtani&show_icons=true&locale=en" alt="manish-awtani" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-awtani&" alt="manish-awtani" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-awtani" alt="manish-awtani" /></a></p>
-<h2>❤️ Support Me</h2>
+
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-awtani&" alt="manish-awtani" />
+</div>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manish-awtani" alt="manish-awtani" />
+  </a>
+</div>
+<h2 align="center">⚡ Connect with me</h2>
+<div align="center">
+  <a target="_blank" href="https://x.com/manishunleashed">
+    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/manish-awtani/">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+</div>
+<!-- <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/manish.awtani">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
-</p>
+</p> -->
