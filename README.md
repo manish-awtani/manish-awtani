@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 *Digital Craftsman (Developer / Programmer/ Engineer)*
 <br />
 <ul>
-me
 
-  <li>💼 FrontEnd Engineer at Razorpay</li>
+  <li>💼 Software Engineer, Mobile Applications at SRKay Consulting Group</li>
   <li>✨ Student of life :)</li>
   <li>💻 I write code. Sometimes, it even works.</li>
-  <li>⚡ I speak fluent Java, JavaScript, and SQL (sometimes even in my sleep).</li>
+  <li>⚡ I speak fluent Java, JavaScript, Dart and SQL (sometimes even in my sleep).</li>
   <li>🧠 AI enthusiast—teaching machines to think so I can think less.</li>
   <li>🔥 I architect scalable applications that (mostly) don’t crash.</li>
   <li>📝 I document my debugging nightmares so others can suffer less.</li>
