@@ -13,15 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<h1>🚀 Manish Awtani – I Twice Full-time a Day</h1>
-<p><em>Digital Craftsman (Developer / Programmer/ Engineer)</em></p>
-
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Manish Awtani – I Twice Full-time a Day 
+*Digital Craftsman (Developer / Programmer/ Engineer)*
+<br />
 <ul>
+me
+
+  <li>💼 FrontEnd Engineer at Razorpay</li>
   <li>✨ Student of life :)</li>
   <li>💻 I write code. Sometimes, it even works.</li>
   <li>⚡ I speak fluent Java, JavaScript, and SQL (sometimes even in my sleep).</li>
-  <li>🔗 I build bridges between frontend and backend (no toll fees, yet).</li>
   <li>🧠 AI enthusiast—teaching machines to think so I can think less.</li>
   <li>🔥 I architect scalable applications that (mostly) don’t crash.</li>
   <li>📝 I document my debugging nightmares so others can suffer less.</li>
@@ -55,15 +62,59 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-awtani&" alt="manish-awtani" />
 </div>
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manish-awtani">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-awtani&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manish-awtani">
+          <img align="center" src="https://streak-stats.demolab.com?user=manish-awtani&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="[https://github.com/manish-awtani/smart-email-assistant](https://github.com/manish-awtani/smart-email-assistant)">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=manish-awtani&repo=smart-email-assistant&theme=nightowl&show_owner=true" alt="smart-email-assistant" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manish-awtani">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=manish-awtani&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=manish-awtani" alt="manish-awtani" />
   </a>
+</div>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish-awtani&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 <h2 align="center">⚡ Connect with me</h2>
 <div align="center">
@@ -74,6 +125,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 <!-- <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/manish.awtani">
