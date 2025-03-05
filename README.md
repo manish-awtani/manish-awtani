@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <br />
 <ul>
 
-  <li>💼 Software Engineer, Mobile Applications at SRKay Consulting Group</li>
   <li>✨ Student of life :)</li>
+  <li>💼 Software Engineer, Mobile Applications at SRKay Consulting Group</li>
   <li>💻 I write code. Sometimes, it even works.</li>
   <li>⚡ I speak fluent Java, JavaScript, Dart and SQL (sometimes even in my sleep).</li>
   <li>🧠 AI enthusiast—teaching machines to think so I can think less.</li>
   <li>🔥 I architect scalable applications that (mostly) don’t crash.</li>
   <li>📝 I document my debugging nightmares so others can suffer less.</li>
-  <li>☕ Support my caffeine addiction (because great code runs on coffee, not just logic).</li>
+<!--   <li>☕ Support my caffeine addiction (because great code runs on coffee, not just logic).</li> -->
 </ul>
 
 <h2>I work with</h2>
