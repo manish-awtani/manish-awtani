@@ -117,6 +117,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manish-awtani/manish-awtani/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish-awtani/manish-awtani/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/output/github-snake.svg" />
+</picture>
+
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 <table width="100%">
   <tr>
