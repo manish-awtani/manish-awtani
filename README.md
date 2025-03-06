@@ -175,7 +175,7 @@ Here are some ideas to get you started:
 </div>
 <h2 align="center">⚡ Connect with me</h2>
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/linkedin.svg" alt="Manish Awtani | LinkedIn" width="21px"/></a>
-<a href="https://x.com/manishunleashed"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/twitter-100.png" alt="Manish Awtani | Twitter" width="21px"/></a>
+<a href="https://x.com/manishunleashed"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/twitter.png" alt="Manish Awtani | Twitter" width="21px"/></a>
 </br>
 <div align="center">
   <a target="_blank" href="https://x.com/manishunleashed">
