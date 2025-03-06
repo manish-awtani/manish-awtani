@@ -177,14 +177,14 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/manish-awtani/"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/linkedin.svg" alt="Manish Awtani | LinkedIn" width="21px"/></a>
 <a href="https://x.com/manishunleashed"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/twitter.png" alt="Manish Awtani | Twitter" width="21px"/></a>
 </br>
-<div align="center">
+<!-- <div align="center">
   <a target="_blank" href="https://x.com/manishunleashed">
     <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
   </a>
   <a target="_blank" href="">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
-</div>
+</div> -->
 
 <!--Footer--> 
 <p align="center">
