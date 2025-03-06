@@ -134,16 +134,24 @@ Here are some ideas to get you started:
         </a>
       </p>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/manish-awtani">
           <img align="center" src="https://streak-stats.demolab.com?user=manish-awtani&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
+    </td> -->
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/manish-awtani">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=manish-awtani&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
@@ -160,7 +168,7 @@ Here are some ideas to get you started:
         </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <br />
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
