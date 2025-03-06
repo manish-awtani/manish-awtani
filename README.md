@@ -174,9 +174,11 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish-awtani&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 <h2 align="center">⚡ Connect with me</h2>
-<a href="https://www.linkedin.com/in/manish-awtani/"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/linkedin.svg" alt="Manish Awtani | LinkedIn" width="21px"/></a>
-<a href="https://x.com/manishunleashed"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/twitter.png" alt="Manish Awtani | Twitter" width="21px"/></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/manish-awtani/"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/linkedin.svg" alt="Manish Awtani | LinkedIn" width="35px"/></a>
+<a href="https://x.com/manishunleashed"><img align="left" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/main/images/twitter.png" alt="Manish Awtani | Twitter" width="35px"/></a>
 </br>
+</div>
 <!-- <div align="center">
   <a target="_blank" href="https://x.com/manishunleashed">
     <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
