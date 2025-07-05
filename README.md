@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <!--   <li>☕ Support my caffeine addiction (because great code runs on coffee, not just logic).</li> -->
 </ul>
 
-<h2>I work with</h2>
-<!-- <div align="left">
+<!-- <h2>I work with</h2>
+<div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
