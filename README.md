@@ -1,18 +1,23 @@
-
 <!--
-**manish-awtani/manish-awtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Manish! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">Software Developer</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I work with this tech
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nextjs,flutter,tailwindcss,postgresql,firebase,linux,docker" alt="Mongodb,Expressjs,React,nodejs,nextjs,flutter,Tailwindcss,Postgresql,Firebase,Linux" />
+  </a>
+</p>
+
+## My stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=manish-awtani&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-awtani&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+</p>
 -->
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
