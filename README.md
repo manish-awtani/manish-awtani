@@ -28,7 +28,7 @@
 *Digital Craftsman (Developer / Programmer / Engineer)*
 <br /> -->
 <h1 align="left">Hey there, I'm Manish! 👋</h1>
-<p align="center">Software Developer</p>
+<p align="left">Software Developer</p>
 
 Always asking *why*, figuring out *how*.
 I build production-scale apps that last.
