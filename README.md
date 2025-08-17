@@ -28,14 +28,13 @@
 *Digital Craftsman (Developer / Programmer / Engineer)*
 <br /> -->
 <h1 align="left">Hey there, I'm Manish! 👋</h1>
-Software Engineer, 23.
+<p align="center">Software Developer</p>
 
 Always asking *why*, figuring out *how*.
 I build production-scale apps that last.
 Passionate about problem solving, system design, and exploring ideas beyond code.
 Off the screen, you’ll find me on the basketball court or trekking new trails.
 Always a student of life, an absolute learner.
-<p align="center">Software Developer</p>
 
 ## I work with this tech
 
