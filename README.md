@@ -19,9 +19,9 @@
 -->
 
 <!--Night Owl image-->
-<div>
+<!-- <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+</div> -->
 
 <!--Header Name-->
 <!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Manish Awtani – I Twice Full-time a Day 
