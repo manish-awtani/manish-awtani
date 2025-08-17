@@ -24,20 +24,19 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Manish Awtani – I Twice Full-time a Day 
+<!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Manish Awtani – I Twice Full-time a Day 
 *Digital Craftsman (Developer / Programmer / Engineer)*
-<br />
-<ul>
+<br /> -->
+<h1 align="left">Hey there, I'm Manish! 👋</h1>
+Software Engineer, 23.
 
-  <li>✨ Student of life :)</li>
-  <li>💼 Software Engineer, Mobile Applications at SRKay Consulting Group</li>
-  <li>💻 I write code. Sometimes, it even works.</li>
-  <li>⚡ I speak fluent Java, JavaScript, Dart and SQL (sometimes even in my sleep).</li>
-  <li>🧠 AI enthusiast—teaching machines to think so I can think less.</li>
-  <li>🔥 I architect scalable applications that (mostly) don’t crash.</li>
-  <li>📝 I document my debugging nightmares so others can suffer less.</li>
+Always asking *why*, figuring out *how*.
+I build production-scale apps that last.
+Passionate about problem solving, system design, and exploring ideas beyond code.
+Off the screen, you’ll find me on the basketball court or trekking new trails.
+Always a student of life, always learning.
 <!--   <li>☕ Support my caffeine addiction (because great code runs on coffee, not just logic).</li> -->
-</ul>
+
 
 <!-- <h2>I work with</h2>
 <div align="left">
