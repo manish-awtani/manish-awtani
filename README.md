@@ -35,6 +35,22 @@ I build production-scale apps that last.
 Passionate about problem solving, system design, and exploring ideas beyond code.
 Off the screen, you’ll find me on the basketball court or trekking new trails.
 Always a student of life, an absolute learner.
+<p align="center">Software Developer</p>
+
+## I work with this tech
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,androidstudio,flutter,tailwindcss,postgresql,firebase,linux,docker" alt="Mongodb,Expressjs,React,nodejs,androidstudio,flutter,Tailwindcss,Postgresql,Firebase,Linux" />
+  </a>
+</p>
+
+## My stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=manish-awtani&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-awtani&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+</p>
+
 <!--   <li>☕ Support my caffeine addiction (because great code runs on coffee, not just logic).</li> -->
 
 
@@ -126,7 +142,7 @@ Always a student of life, an absolute learner.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish-awtani/manish-awtani/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/manish-awtani/manish-awtani/output/github-snake.svg" />
 </picture>
-
+<!--
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 <table width="100%">
   <tr>
@@ -138,6 +154,7 @@ Always a student of life, an absolute learner.
         </a>
       </p>
     </td>
+    -->
 <!--     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
@@ -146,6 +163,7 @@ Always a student of life, an absolute learner.
         </a>
       </p>
     </td> -->
+    <!--
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
@@ -155,6 +173,7 @@ Always a student of life, an absolute learner.
       </p>
     </td>
   </tr>
+  -->
 <!--   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
